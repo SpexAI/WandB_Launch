@@ -22,7 +22,7 @@ def main():
 
     # init when run standalone
     print('INIT PROJECT:', json_config["project_name"])
-    run = wandb.init(project=json_config["project_name"], entity="spexai", job_type="train")
+    run = wandb.init(project=json_config["project_name"], job_type="train")
 
 
     ### WANDB CONFIG ###

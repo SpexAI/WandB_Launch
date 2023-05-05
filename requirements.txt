@@ -1,0 +1,11 @@
+deeplake
+wandb
+torch
+torchvision
+opencv-python
+matplotlib
+imgaug
+torchmetrics
+configparser
+pyyaml==5.1
+git+https://github.com/facebookresearch/detectron2.git

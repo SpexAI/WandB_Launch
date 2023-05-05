@@ -1,0 +1,17 @@
+{
+    "credentials":"",
+    "access_key": "",
+    "project_name":"wandb_launch_test",
+    "bucket_path": "",
+    "datalake_trainset":"hub://spexai/testRGB_test",
+    "datalake_valset":"hub://spexai/testRGB_test",
+    "datalake_testset":"hub://spexai/testRGB_test",
+    "model_path": "model_final.pth",
+    "train_artifact":"",
+    "test_artifact":"",
+    "val_artifact":"",
+    "wandb_test":"",
+    "test_path": "",
+    "vis_samples": 50,
+    "num_workers": 6
+}
